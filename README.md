@@ -4,7 +4,7 @@
 
 Predicting human **life expectancy** based on **environmental and lifestyle factors** using advanced machine learning techniques. This project helps uncover key influences on longevity, aiding public health and policy decisions.
 
-🔗 **Live App:** [Life Expectancy Prediction](https://life-expectancy-prediction.streamlit.app/)  
+🔗 **Live App:** [Life Expectancy Prediction](https://life-expectancy--prediction.streamlit.app)  
 
 ## 📂 Dataset
 
